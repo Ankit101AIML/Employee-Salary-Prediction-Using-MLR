@@ -6,7 +6,7 @@ from sklearn.metrics import mean_absolute_error,mean_squared_error,r2_score
 import matplotlib.pyplot as plt
 import numpy as np
 
-df=pd.read_csv("employee_salary_real_world_dataset.csv")
+df=pd.read_csv("C:\\Users\\ar358\\PROJECT.PY\\AIML(PROJECT)\\employee_salary_real_world_dataset.csv")
 print(df)
 
 
